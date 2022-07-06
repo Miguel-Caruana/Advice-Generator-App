@@ -1,0 +1,29 @@
+{
+  "name": "advice-generator-app",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-Caruana/Advice-Generator-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguel-Caruana/Advice-Generator-App/issues"
+  },
+  "homepage": "https://github.com/Miguel-Caruana/Advice-Generator-App#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10"
+  }
+}
